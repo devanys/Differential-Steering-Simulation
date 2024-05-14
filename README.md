@@ -1,3 +1,4 @@
+![image](https://github.com/devanys/Differential-Steering-Simulation/assets/145944367/ccef00ef-a66b-445c-b784-ac1e7aceec83)
 # Differential Steering Simulation
 
 ## Overview
